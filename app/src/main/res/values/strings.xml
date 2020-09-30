@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Конвертер BitCoin</string>
+    <string name="introText">Укажите количество BitCoin</string>
+</resources>
